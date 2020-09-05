@@ -1,1 +1,2 @@
-# Exercicios-DW1A3
+# Nome completo: Gabriely de Jesus Santos Bicigo
+# Prontuário: SP303061X
