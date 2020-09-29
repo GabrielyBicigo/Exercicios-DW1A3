@@ -1,0 +1,31 @@
+
+#brasileiro{
+  font: 100% sans-serif;
+  background-color: #efe;
+  border: 1px solid #7a7;
+  }
+
+#brasileiro th,
+#brasileiro td {
+  text-align: right;
+  padding-right: .5em;
+  }
+
+#brasileiro th {
+  font-weight: bold;
+  padding-left: .5em;
+  }
+
+#brasileiro td {
+  background-color: #cef;
+  padding:.5em .5em .5em 3em;
+  }
+
+h2{ background-color:  #cef;
+
+}
+
+img {
+  border-radius: 8px;
+  
+}
